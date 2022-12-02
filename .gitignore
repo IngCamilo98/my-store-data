@@ -189,6 +189,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Development with visualstudiocode
+.vscode
+
 # Windows shortcuts
 *.lnk
 
